@@ -1,8 +1,7 @@
 ```text
 ░▒▓█  liam
-░▒▓█  isoscelesxyz · @isosceles_xyz
+░▒▓█  x.com/isosceles_xyz
 ░▒▓█
-░▒▓█  @dromos-labs
-░▒▓█  @aerodrome-finance
-░▒▓█  @velodrome-finance
+░▒▓█  dromos.xyz
+░▒▓█  aero.xyz
 ```

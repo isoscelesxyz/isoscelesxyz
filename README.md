@@ -1,8 +1,14 @@
-# hi, i'm liam
+### hi, i'm liam 👋
 
-placeholder profile readme — real content coming soon.
-
-- building things at [@dromos-labs](https://github.com/dromos-labs)
-- on the internet at [@isosceles_xyz](https://x.com/isosceles_xyz)
-
-<!-- bump -->
+```ts
+const liam = {
+  handle: "isoscelesxyz",
+  building: ["@dromos-labs", "@aerodrome-finance", "@velodrome-finance"],
+  stack: ["typescript", "next.js", "bun", "solidity"],
+  tools: ["claude code", "cursor", "vercel"],
+  online: {
+    x: "@isosceles_xyz",
+    github: "isoscelesxyz",
+  },
+} as const;
+```

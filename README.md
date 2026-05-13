@@ -1,6 +1,8 @@
-```
-name:    liam
-handle:  isoscelesxyz
-working: @dromos-labs, @aerodrome-finance, @velodrome-finance
-x:       @isosceles_xyz
+```text
+░▒▓█  liam
+░▒▓█  isoscelesxyz · @isosceles_xyz
+░▒▓█
+░▒▓█  @dromos-labs
+░▒▓█  @aerodrome-finance
+░▒▓█  @velodrome-finance
 ```
